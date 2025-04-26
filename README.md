@@ -9,7 +9,7 @@
 ![image alt](https://github.com/volAndr1/Lab_1/blob/49460dd4a492122935e5ced2f2fa0c1ee8a0e526/chrome_tgNn2S1JfP.png)
 ![image alt](https://github.com/volAndr1/Lab_1/blob/c779c5e0caedf9daf77431eae5000306d99e6110/chrome_w1jFCqgJ6l.png)
 # 3. Композитні типи
-![image alt]()
-![image alt]()
-![image alt]()
-![image alt]()
+![image alt](https://github.com/volAndr1/Lab_1/blob/0e8d998da7fb6606c84386b413aee116f9bb31c9/chrome_yOK9GZhno4.png)
+![image alt](https://github.com/volAndr1/Lab_1/blob/0e8d998da7fb6606c84386b413aee116f9bb31c9/chrome_nwTrmhmhIz.png)
+![image alt](https://github.com/volAndr1/Lab_1/blob/0e8d998da7fb6606c84386b413aee116f9bb31c9/chrome_ojo0DYFVWQ.png)
+![image alt](https://github.com/volAndr1/Lab_1/blob/0e8d998da7fb6606c84386b413aee116f9bb31c9/chrome_RO1z8IDyi8.png)
