@@ -19,7 +19,7 @@
 ![image alt](https://github.com/volAndr1/Lab_1/blob/573a1294a4ed8e1a3f73b57e99b7e2da443cb208/chrome_9ILfQkO79Y.png)
 ![image alt](https://github.com/volAndr1/Lab_1/blob/0e6223e5ad2a1782bf424437e7f7366c4d20387a/chrome_ze2zggC8bB.png)
 # 5. Класи
-![image alt]()
-![image alt]()
-![image alt]()
-![image alt]()
+![image alt](https://github.com/volAndr1/Lab_1/blob/16a31186be0787057ebbe7df5d88605d835cb441/chrome_zOr2CxAUB8.png)
+![image alt](https://github.com/volAndr1/Lab_1/blob/16a31186be0787057ebbe7df5d88605d835cb441/chrome_N2MDCbpbDb.png)
+![image alt](https://github.com/volAndr1/Lab_1/blob/16a31186be0787057ebbe7df5d88605d835cb441/chrome_AKYredbxaK.png)
+![image alt](https://github.com/volAndr1/Lab_1/blob/16a31186be0787057ebbe7df5d88605d835cb441/chrome_QRf1OB7Mku.png)
