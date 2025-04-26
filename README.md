@@ -4,7 +4,7 @@
 ![image alt](https://github.com/volAndr1/Lab_1/blob/208bc80ddc8876148a8dd65b0515c693563e6e45/chrome_bigtSHN66J.png)
 ![image alt](https://github.com/volAndr1/Lab_1/blob/4d28fd3aae3a6aafcd376bb557ca753ba2cbaad7/chrome_FFlZxOcpld.png)
 # 2. Інтерфейси
-![image alt]()
-![image alt]()
-![image alt]()
-![image alt]()
+![image alt](https://github.com/volAndr1/Lab_1/blob/598219ff898361f733be7d0d98aaa5df3369412e/chrome_7Uy2G1vLCA.png)
+![image alt](https://github.com/volAndr1/Lab_1/blob/a3c49edbe8785a6fa0d1d9566a848066465be190/chrome_c70goUjoPB.png)
+![image alt](https://github.com/volAndr1/Lab_1/blob/49460dd4a492122935e5ced2f2fa0c1ee8a0e526/chrome_tgNn2S1JfP.png)
+![image alt](https://github.com/volAndr1/Lab_1/blob/c779c5e0caedf9daf77431eae5000306d99e6110/chrome_w1jFCqgJ6l.png)
