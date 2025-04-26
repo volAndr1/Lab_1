@@ -3,3 +3,8 @@
 ![image alt](https://github.com/volAndr1/Lab_1/blob/968615a9baefe33a054a6643fee7f2f718497a0d/chrome_eNfFAXEkiY.png)
 ![image alt](https://github.com/volAndr1/Lab_1/blob/208bc80ddc8876148a8dd65b0515c693563e6e45/chrome_bigtSHN66J.png)
 ![image alt](https://github.com/volAndr1/Lab_1/blob/4d28fd3aae3a6aafcd376bb557ca753ba2cbaad7/chrome_FFlZxOcpld.png)
+# 2. Інтерфейси
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
