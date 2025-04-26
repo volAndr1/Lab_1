@@ -14,10 +14,10 @@
 ![image alt](https://github.com/volAndr1/Lab_1/blob/0e8d998da7fb6606c84386b413aee116f9bb31c9/chrome_ojo0DYFVWQ.png)
 ![image alt](https://github.com/volAndr1/Lab_1/blob/0e8d998da7fb6606c84386b413aee116f9bb31c9/chrome_RO1z8IDyi8.png)
 # 4. Дженерики
-![image alt]()
-![image alt]()
-![image alt]()
-![image alt]()
+![image alt](https://github.com/volAndr1/Lab_1/blob/573a1294a4ed8e1a3f73b57e99b7e2da443cb208/chrome_KnGBH2UyNu.png)
+![image alt](https://github.com/volAndr1/Lab_1/blob/573a1294a4ed8e1a3f73b57e99b7e2da443cb208/chrome_omSXWfZAnQ.png)
+![image alt](https://github.com/volAndr1/Lab_1/blob/573a1294a4ed8e1a3f73b57e99b7e2da443cb208/chrome_9ILfQkO79Y.png)
+![image alt](https://github.com/volAndr1/Lab_1/blob/0e6223e5ad2a1782bf424437e7f7366c4d20387a/chrome_ze2zggC8bB.png)
 # 5. Класи
 ![image alt]()
 ![image alt]()
