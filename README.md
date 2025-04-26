@@ -8,3 +8,8 @@
 ![image alt](https://github.com/volAndr1/Lab_1/blob/a3c49edbe8785a6fa0d1d9566a848066465be190/chrome_c70goUjoPB.png)
 ![image alt](https://github.com/volAndr1/Lab_1/blob/49460dd4a492122935e5ced2f2fa0c1ee8a0e526/chrome_tgNn2S1JfP.png)
 ![image alt](https://github.com/volAndr1/Lab_1/blob/c779c5e0caedf9daf77431eae5000306d99e6110/chrome_w1jFCqgJ6l.png)
+# 3. Композитні типи
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
