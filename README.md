@@ -13,3 +13,13 @@
 ![image alt](https://github.com/volAndr1/Lab_1/blob/0e8d998da7fb6606c84386b413aee116f9bb31c9/chrome_nwTrmhmhIz.png)
 ![image alt](https://github.com/volAndr1/Lab_1/blob/0e8d998da7fb6606c84386b413aee116f9bb31c9/chrome_ojo0DYFVWQ.png)
 ![image alt](https://github.com/volAndr1/Lab_1/blob/0e8d998da7fb6606c84386b413aee116f9bb31c9/chrome_RO1z8IDyi8.png)
+# 4. Дженерики
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
+# 5. Класи
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
